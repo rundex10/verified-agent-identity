@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'Murphy'
         required: true
-        default: 'Haruka'
+        default: 'Murphy'
       agent_description:
         description: 'Murphy'
         required: true
